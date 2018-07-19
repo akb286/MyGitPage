@@ -1,1 +1,3 @@
-scripts.js
+$( document).ready(function() {
+  alert("Hi!");
+});
